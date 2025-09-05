@@ -1,0 +1,9 @@
+body{
+    background: url(windows.webp);
+    background-size: 1920px 960px;
+    font-size: 150%;
+    color: black;
+}
+h1{
+    text-align: center;
+}
